@@ -2,7 +2,7 @@
 
 <p align="left">
    
-<img src="https://cdnb.artstation.com/p/assets/video_clips/images/024/538/805/large/pixel-jeff-thumb.jpg?1582740711" min-width="400px" max-width="350px" width="350px" align="right">
+<img src="https://cdnb.artstation.com/p/assets/video_clips/images/024/538/805/large/pixel-jeff-thumb.jpg?1582740711" min-width="600px" max-width="350px" width="350px" align="right">
    
 Seja bem-vindo ao meu GitHub!
  
